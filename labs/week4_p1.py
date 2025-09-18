@@ -28,7 +28,6 @@ for num in range(37,1051):
     if num % 2 == 0:
     
      print(num)
-'''     
 
 #question4
 
@@ -47,7 +46,7 @@ while True:
 print("Your newly created word is:", word)
 
 
-''''
+'''
 # question 5
 
 sum = 0
@@ -55,4 +54,3 @@ sum = 0
 for i in range (51,517,1):
     sum += i
 print(sum)
-'''
