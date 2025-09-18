@@ -23,3 +23,5 @@ elif standards >= 35:
     print("D")    
 elif standards <= 35:
     print("F")   
+
+    hsgdgd
