@@ -28,6 +28,7 @@ for num in range(37,1051):
     if num % 2 == 0:
     
      print(num)
+   
 
 #question4
 
